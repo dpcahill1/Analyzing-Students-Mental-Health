@@ -1,2 +1,2 @@
 # Analyzing-Students-Mental-Health
-DataCamp project aimed to strengthen SQL skills.
+Working with survey data from a Japanese international university, I was tasked with exploring and analyzing how the length of stay impacted mental health of international students. Using PostgreSQL, I analyzed average diagnostic scores for depression, social connectedness, and acculturative stress across various lengths of stay. By aggregating and filtering the data, I aimed to understand if stay duration influenced these mental health factors for international students.
